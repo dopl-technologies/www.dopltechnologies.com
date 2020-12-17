@@ -1,7 +1,7 @@
+language: node_js
+node_js:
+  - 12
 deploy:
-  language: node_js
-  node_js:
-    - 12
   provider: heroku
   app: www-dopltechnologies-com
   api_key:
