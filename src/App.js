@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Coming soon
+          Home page coming soon
+        </p>
+        <p>
+          Investors <a href="https://investors.dopltechnologies.com">click here</a>
         </p>
       </header>
     </div>
